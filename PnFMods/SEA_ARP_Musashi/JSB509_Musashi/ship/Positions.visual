@@ -1,0 +1,87 @@
+        <midFront>
+			<node>
+				<identifier>	MP_JTB1491	</identifier>   (JM385/JD099_Director_Type_98_10m.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.8101 0.2052 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1501	</identifier>   (JM010/JM009_Signal_Lamp.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.8375 -0.2013 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1506	</identifier>   (JM008_Searchlight.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 2.2773 -0.1819 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1508	</identifier>   (JM003_Searchlight_Control_1.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.6648 -0.0368 1.0000	</row3>
+				</transform>
+			</node>
+        </midFront>
+        <midback>
+			<node>
+				<identifier>	MP_JM009_Signal_Lamp	</identifier>   (JM009_Signal_Lamp.mfm)
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 1.7066 -2.0843 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1512	</identifier>   (JM385/JD099_Director_Type_98_10m.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.3800 -2.3947 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB1523	</identifier>   (JM008_Searchlight.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.1575 -1.4062 1.0000	</row3>
+				</transform>
+			</node>
+        </midback>
+        <stern>
+			<node>
+				<identifier>	MP_JTB1527	</identifier>   (JM066_Aircraft_Deck_Rails.mfm)
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5786 -5.7233 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM382_Crane	</identifier>   (JM382_Crane/_wire.mfm)
+				<transform>
+					<row0>	0.9966 0.0000 -0.0828 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0828 0.0000 0.9966 0.0000	</row2>
+					<row3>	0.0194 0.3998 -8.1262 1.0000	</row3>
+				</transform>
+			</node>
+        </stern>
